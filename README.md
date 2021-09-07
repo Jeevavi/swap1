@@ -6,7 +6,7 @@ public class Swap1 {
   int y = 20;
   System.out.println("valve of x:"+x);
   System.out.println("value of y:"+y);
-  System.out.println("After swapping");
+  System.out.println("jeeva arun");
   x = x+y;
   y = x-y;
   x = x-y;
